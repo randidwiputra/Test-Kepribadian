@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.2\lib\wma20.jar;C:\WTK2.5.2\lib\mmapi.jar;C:\WTK2.5.2\lib\jsr75.jar;C:\WTK2.5.2\lib\jsr082.jar;C:\WTK2.5.2\lib\j2me-ws.jar;C:\WTK2.5.2\lib\j2me-xmlrpc.jar;C:\WTK2.5.2\lib\jsr184.jar;C:\WTK2.5.2\lib\jsr179.jar;C:\WTK2.5.2\lib\satsa-apdu.jar;C:\WTK2.5.2\lib\satsa-jcrmi.jar;C:\WTK2.5.2\lib\satsa-pki.jar;C:\WTK2.5.2\lib\satsa-crypto.jar;C:\WTK2.5.2\lib\jsr211.jar;C:\WTK2.5.2\lib\jsr238.jar;C:\WTK2.5.2\lib\jsr229.jar;C:\WTK2.5.2\lib\jsr180.jar;C:\WTK2.5.2\lib\jsr234.jar;C:\WTK2.5.2\lib\jsr226.jar;C:\WTK2.5.2\lib\jsr239.jar;C:\WTK2.5.2\lib\midpapi21.jar;C:\WTK2.5.2\lib\cldcapi11.jar
+-injars C:\Documents and Settings\dayax\j2mewtk\2.5.2\apps\TesKepribadian\bin\TesKepribadian.jar
+-outjar C:\DOCUME~1\dayax\LOCALS~1\Temp\TesKepribadian.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
